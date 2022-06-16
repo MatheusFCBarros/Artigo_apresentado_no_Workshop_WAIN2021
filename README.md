@@ -3,6 +3,10 @@
 
  WAIN Performance 2021
 
+O artigo foi publicado pela Association for Computing Machinery, link abaixo 
+
+https://dl.acm.org/doi/10.1145/3543146.3543173
+
 Autores:
 Matheus F. C. Barros - Universidade Federal de Ouro Preto
 
